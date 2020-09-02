@@ -1,8 +1,7 @@
 INSTALLATION
 ------------
 
-1. Extract the contents of the .zip file altogether into one local directory. Ensure none of the contents is moved individually
-as the script is dependent on the directories being literal. 
+1. Pull/download ALL files 
 
 2. Open the script in an IDE of your choice - ensuring the correct version of PyQt is installed (see REQUIREMENTS)
 
@@ -23,7 +22,9 @@ on your machine.
 CONFIGURATION
 -------------
 
-The app was developed on a Windows 10 system in Spyder 4.0.1. Different operating systems may cause resolution issues and
+The app was developed on a Windows 10 system in Spyder 4.0.1. 
+
+NOTE: Different operating systems may cause resolution issues and
 different versions of Python and/or PyQt5 may cause runtime errors.
 
 
