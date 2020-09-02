@@ -1,3 +1,7 @@
+![](Sample%20Images/img1.png) ![](Sample%20Images/img2.png) ![](Sample%20Images/img3.png)
+
+
+
 ABSTRACT
 ------------
 Dam failures are a large scale, low probability but high-risk events. Currently the only information available to the general population are Reservoir Flood Maps (RFM's). Which fail to accurately inform the general public on the risks involved, as well as any valuable information - for people who live near them. This GUI is used to communicate across the risk of Dam Failures in a more simple, easier-to-understand manner. It presents the user with ifformation on dams in a way that allows them to construct their own, informed opninon. 
