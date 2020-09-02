@@ -1,4 +1,6 @@
-![](Sample%20Images/img1.png) ![](Sample%20Images/img2.png) ![](Sample%20Images/img3.png)
+<img src="Sample%20Images/img1.png" height="400" >
+<img src="Sample%20Images/img2.png" height="400" >
+<img src="Sample%20Images/img3.png" height="400" >
 
 
 
